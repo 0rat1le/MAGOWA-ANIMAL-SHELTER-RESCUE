@@ -8,7 +8,7 @@
 </head>
 <header>
     <nav>
-    <div class="logo">logo</div>
+   <div class="logo"><li><img src="animal adoption - Search Images_files/Screenshot 2026-05-29 100742.png" alt="#logo"></li></div>
 <h1>Magowa Animal Shelter and Rescue</h1>
 <ul>
 <li><a href="#Home">Home</a></li>
