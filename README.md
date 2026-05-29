@@ -126,6 +126,8 @@
    <h3>Working Hours</h3>
     <p>Monday - Friday: 9 AM - 5 PM</p>
     <p>Saturday: 10 AM - 4 PM</p>
+ <p>Sunday: 10 AM - 2 PM</p>
+    <p>&copy; 2026 Magowa Animal Shelter and Rescue. All rights reserved.</p>
 
  * {
     margin: 0;
@@ -529,5 +531,4 @@ footer p {
         gap: 15px;
     }
 }
-    <p>Sunday: 10 AM - 2 PM</p>
-    <p>&copy; 2026 Magowa Animal Shelter and Rescue. All rights reserved.</p>
+   
